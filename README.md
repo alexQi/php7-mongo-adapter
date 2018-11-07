@@ -13,14 +13,11 @@ The new driver available is a little bit low-level compared to the previous one 
 
 This is what this library was conceived for.
 
-**!!! FOR DETAILED GUIDELINES CONSULT THE WIKI AT:**
-https://github.com/ThomasSquall/PHP7MongoDriver/wiki
-
 ## Installation
 
 Using composer is quite simple, just run the following command:
 ``` sh
-$ composer require thomas-squall/php7-mongo-driver
+$ composer require alex-qiu/php7-mongo-adapter
 ```
 
 ## Prerequisites
@@ -107,4 +104,4 @@ Hope you guys find this library useful.
 
 Please share it and give me a feedback :)
 
-Thomas
+Alex
